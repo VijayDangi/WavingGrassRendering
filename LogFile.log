@@ -1,0 +1,15 @@
+Log File Opened
+32, 44-------
+3
+loadTexture(): 1
+loadTexture(): 2
+Cannot load "texture/ground_diffuse.jpg"
+loadTexture(): 3
+------------- TEXT2D PROGRAM UNIFORM ----------------------
+0
+1
+2
+--------------------------------------------------------
+MSAA Framebuffer is complete
+Scene Framebuffer is complete
+Log File Closed
